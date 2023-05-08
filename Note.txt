@@ -1,0 +1,25 @@
+Que.
+Change Time 
+
+If need Different Finish Time 
+Change mips value (multiply by 2 (*2))
+
+
+
+Que.
+Change one Data Centre, one host and run two cloudlet
+
+Example2 --> Line 96 approx remove vmid++ from code
+
+
+
+Que.
+
+
+
+
+
+
+
+
+
